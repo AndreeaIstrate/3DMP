@@ -6,4 +6,5 @@ Authors: Istrate Andreea-Miruna
 Project status:
 Update 1. Created the project and decided the needed components.
 Update 2. Created the back and front support, the front proppeler and some small screws.
-Update 3. Created the propeller and the components of the mecanism.
+Update 3. Created the propeller and the components of the mechanism.
+Update 4. Corrected the components of the mechanism, created the bullet and the handle with the crank. Added the joints and the contact between the components.
