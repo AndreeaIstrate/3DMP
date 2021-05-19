@@ -7,4 +7,4 @@ Project status:
 Update 1. Created the project and decided the needed components.
 Update 2. Created the back and front support, the front proppeler and some small screws.
 Update 3. Created the propeller and the components of the mechanism.
-Update 4. Corrected the components of the mechanism, created the bullet and the handle with the crank. Added the joints and the contact between the components.
+Update 4. Corrected the components of the mechanism, created the bullet, the screws (the long and the small ones) and the handle with the crank. Added the joints and the contact between the components.
