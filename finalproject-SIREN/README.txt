@@ -33,8 +33,13 @@ The software used to to designand render the mechanism is Fusion 360.
 Project status:
 Update 1. Created the project and decided the needed components.
 Update 2. Created the back and front support, the front proppeler and some small screws.
+<<<<<<< HEAD
 Update 3. Created the propeller and the components of the mecanism.
 Update 4. Corrected the components of the mechanism, created the bullet, the screws (the long and the small ones) and the handle with the crank. 
 Added the joints and the contact between the components.
 Finished!
 
+=======
+Update 3. Created the propeller and the components of the mechanism.
+Update 4. Corrected the components of the mechanism, created the bullet, the screws (the long and the small ones) and the handle with the crank. Added the joints and the contact between the components.
+>>>>>>> 5b5b8462e5311f6827889184eeb39c5ddae040fd
